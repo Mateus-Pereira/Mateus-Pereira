@@ -1,4 +1,4 @@
-## MATEUS Pereira
+## MATEUS PEREIRA
 
  <div>
   <a href="https://github.com/mateus-pereira">
