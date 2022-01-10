@@ -1,4 +1,8 @@
-## Olá! Eu sou o Mateus Pereira
+🙋‍♂️ - Meu nome é Mateus Luiz e tenho 22 anos
+📍 - De MG que mora em Beagah
+💻 - Estagiário na Drogaria Araújo
+📚 - Analise e Desenvolvimento de Sistemas | Estácio
+📚 - Atuais linguagens e frameworks que estou estudando Python | Flask |Java Script | Node.js
 
  <div>
   <a href="https://github.com/mateus-pereira">
