@@ -1,11 +1,5 @@
 ## MATEUS PEREIRA
 
-    👨‍💻 ₋ ɪᴛ ᴀɴᴀʟʏsᴛ | ᴘᴇɴᴛᴇsᴛ | sᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴄʟᴏᴜᴅ
-    📍 - ᴍɢ / ʙʜ
-    👨‍🎓 ₋ ᴀɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs
-    👨‍🎓 - ᴀʀǫᴜɪᴛᴇᴛᴜʀᴀ ᴇ ᴘʀᴏᴊᴇᴛᴏs ᴅᴇ ᴄʟᴏᴜᴅ ᴄᴏᴍᴘᴜᴛɪɴɢ
-      
-
  <div>
   <a href="https://github.com/mateus-pereira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateus-pereira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -27,3 +21,9 @@
   <a href = "mailto:mateus.l.b.p19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-darkcyan?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateusluiz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-darkcyan?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
 </div>
+
+
+    👨‍💻 ₋ ɪᴛ ᴀɴᴀʟʏsᴛ | ᴘᴇɴᴛᴇsᴛ | sᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴄʟᴏᴜᴅ
+    📍 - ᴍɢ / ʙʜ
+    👨‍🎓 ₋ ᴀɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs
+    👨‍🎓 - ᴀʀǫᴜɪᴛᴇᴛᴜʀᴀ ᴇ ᴘʀᴏᴊᴇᴛᴏs ᴅᴇ ᴄʟᴏᴜᴅ ᴄᴏᴍᴘᴜᴛɪɴɢ
