@@ -1,5 +1,11 @@
 ## MATEUS PEREIRA
 
+    👨‍💻 ₋ ɪᴛ ᴀɴᴀʟʏsᴛ | ᴘᴇɴᴛᴇsᴛ | sᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴄʟᴏᴜᴅ
+    📍 - ᴍɢ / ʙʜ
+    👨‍🎓 ₋ ᴀɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs
+    👨‍🎓 - ᴀʀǫᴜɪᴛᴇᴛᴜʀᴀ ᴇ ᴘʀᴏᴊᴇᴛᴏs ᴅᴇ ᴄʟᴏᴜᴅ ᴄᴏᴍᴘᴜᴛɪɴɢ
+      
+
  <div>
   <a href="https://github.com/mateus-pereira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateus-pereira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
